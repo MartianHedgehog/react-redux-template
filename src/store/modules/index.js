@@ -10,7 +10,3 @@ const RootReducer = (history) => {
 };
 
 export default RootReducer;
-
-// export default combineReducers({
-//   test: () => ({ test: "test" }),
-// });
